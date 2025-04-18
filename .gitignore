@@ -7,3 +7,4 @@ dist/
 .env
 alta-scaffolding-automation/
 .env
+config.yaml
